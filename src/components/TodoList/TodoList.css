@@ -1,0 +1,11 @@
+.todoList{
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.todo{
+    margin: 10px;
+    background-color: #555;
+}
